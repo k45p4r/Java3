@@ -1,2 +1,8 @@
-package mod1_1;public class Task1 {
+package mod1_1;
+
+public class Task1 {
+    public static void main(String [] args) {
+        System.out.println("Hello, user!");
+
+    }
 }
